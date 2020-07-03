@@ -1,6 +1,6 @@
 # CompanyProfile
 a content management system for companies to spread their projects and services.
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App]()
 
 ## What is used
 
